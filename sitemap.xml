@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- INDEX -->
+  <url>
+    <loc>https://tvujweb.cz/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/index-de.html"/>
+  </url>
+
+  <url>
+    <loc>https://tvujweb.cz/index-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/index-de.html"/>
+  </url>
+
+  <url>
+    <loc>https://tvujweb.cz/index-de.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/index-de.html"/>
+  </url>
+
+  <!-- DONATE -->
+  <url>
+    <loc>https://tvujweb.cz/donate.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/donate.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/donate-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/donate-de.html"/>
+  </url>
+
+  <url>
+    <loc>https://tvujweb.cz/donate-en.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/donate.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/donate-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/donate-de.html"/>
+  </url>
+
+  <url>
+    <loc>https://tvujweb.cz/donate-de.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tvujweb.cz/donate.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tvujweb.cz/donate-en.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://tvujweb.cz/donate-de.html"/>
+  </url>
+
+</urlset>
