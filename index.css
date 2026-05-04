@@ -77,7 +77,7 @@ body {
 .home-link {
   padding: 8px 12px;
   background: #333;
-  color: #fff;
+  color: white;
   text-decoration: none;
   border-radius: 6px;
   font-weight: 700;
@@ -177,12 +177,6 @@ body {
   text-align: center;
   color: var(--muted);
   font-size: 0.9rem;
-}
-
-.donate-inline {
-  margin-left: 12px;
-  color: #333;
-  text-decoration: underline;
 }
 
 .signature {
