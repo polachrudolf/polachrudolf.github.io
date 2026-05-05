@@ -3,7 +3,7 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- INDEX -->
+
   <url>
     <loc>https://polachrudolf.github.io/index.html</loc>
     <xhtml:link rel="alternate" hreflang="cs" href="https://polachrudolf.github.io/index.html"/>
@@ -25,7 +25,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://polachrudolf.github.io/index-de.html"/>
   </url>
 
-  <!-- DONATE -->
+
   <url>
     <loc>https://polachrudolf.github.io/donate.html</loc>
     <xhtml:link rel="alternate" hreflang="cs" href="https://polachrudolf.github.io/donate.html"/>
@@ -46,5 +46,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://polachrudolf.github.io/donate-en.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://polachrudolf.github.io/donate-de.html"/>
   </url>
+
 
 </urlset>
