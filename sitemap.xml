@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- INDEX -->
   <url>
     <loc>https://polachrudolf.github.io/index.html</loc>
   </url>
@@ -10,7 +9,6 @@
     <loc>https://polachrudolf.github.io/index-en.html</loc>
   </url>
 
-  <!-- DONATE -->
   <url>
     <loc>https://polachrudolf.github.io/donate.html</loc>
   </url>
