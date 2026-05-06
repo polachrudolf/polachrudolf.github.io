@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://polachrudolf.github.io/sitemap.xml
+
+Sitemap: https://polachrudolf.github.io/sitemap/sitemap.xml
